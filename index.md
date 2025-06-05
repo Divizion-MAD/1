@@ -1,10 +1,8 @@
 ---
 layout: default
-title: DIVIZION M.A.D.
+title: Home
 ---
-<link rel="stylesheet" href="assets/css/style.css">
 
-# DIVIZION M.A.D.
 **Milsim without the roleplay.**  
 A realistic level milsim group that ditches the unnecessary hassles and roleplay-aspects, to be more beginner friendly. 
 
@@ -16,7 +14,7 @@ DIVIZION M.A.D. brings elite realism to Arma 3, through tightly-coordinated team
 ---
 
 ## Structure & Roles
-- Commander and Squad Leaders: Used to coordinate, plan and execute operations
+- Commander and Squad Leaders: Used to coordinate, plan and execute operations  
 - Using Task Force Arrowhead Radio (TFAR) to communicate
 
 ---
@@ -32,10 +30,9 @@ DIVIZION M.A.D. brings elite realism to Arma 3, through tightly-coordinated team
 Think you’ve got what it takes?  
 👉 [Join us on Discord!](https://discord.gg/tZ5FnVWxxM)
 
-
 ---
 
-## Contact
+## Contact  
 👉 [Discord](https://discord.gg/tZ5FnVWxxM)  
 👉 [Twitter/X](https://x.com/DivizionMAD)  
 👉 [Tiktok](https://www.tiktok.com/@sejosboys)  
