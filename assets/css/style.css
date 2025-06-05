@@ -29,7 +29,7 @@
 }
 .main-content {
   max-width: 960px !important;
-  margin: 0 !important;
+  margin: 0 auto !important;
   padding: 0 24px !important;
   box-sizing: border-box !important;
   text-align: center !important;
