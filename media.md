@@ -16,7 +16,7 @@ Welcome to the archive!
   <summary><strong>Screenshots (click to expand)</strong></summary>
   <br>
 <div align="center">
-  <img src="https://i.imgur.com/iIHHDof.png" alt="Op Screenshot 1" width="70%">
+  <img src="https://i.imgur.com/iIHHDof.png" alt="Op Screenshot 1" width="100%">
 </div>
 </details>
 
