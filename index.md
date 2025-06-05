@@ -7,7 +7,7 @@ title: DIVIZION M.A.D.
 
 # DIVIZION M.A.D.
 **Milsim without the roleplay.**  
-A realistic level milsim group that ditches the unecessary hassles and roleplay-aspects, to be more beginner friendly. 
+A realistic level milsim group that ditches the unnecessary hassles and roleplay-aspects, to be more beginner friendly. 
 
 ---
 
