@@ -15,7 +15,7 @@ Welcome to the archive!
 <details>
   <summary><strong>Screenshots (click to expand)</strong></summary>
   <br>
-<img src="/assets/images/arma-mad-screenshot.png" alt="Op Screenshot 1" style="max-width: 100%; border-radius: 6px;">
+![Op Screenshot 1](/1/assets/images/arma-mad-screenshot.png)
 </details>
 
 
