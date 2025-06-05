@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ page.title }}</title>
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <header class="page-header">
+      <h1 class="project-name">{{ site.title }}</h1>
+    </header>
+
+    <main>
+      <div class="main-content">
+        {{ content }}
+      </div>
+    </main>
+  </body>
+</html>
