@@ -13,14 +13,14 @@ Welcome to the archive!
 ---
 
 <details>
-  <summary><strong>📸 Screenshots (click to expand)</strong></summary>
+  <summary><strong>Screenshots (click to expand)</strong></summary>
   <br>
   <img src="/assets/images/arma-mad-screenshot.png" alt="Op Screenshot 1" style="max-width: 100%; border-radius: 6px;">
 </details>
 
 
 <details open>
-  <summary><strong>🎬 Clips</strong></summary>
+  <summary><strong>Clips</strong></summary>
 
   <br>
 
