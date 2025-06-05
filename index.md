@@ -31,18 +31,18 @@ DIVIZION M.A.D. brings elite realism to Arma 3, through tightly-coordinated team
 
 ## 📝 Enlist Now
 Think you’ve got what it takes?  
+👉 [Join us on Discord!](https://discord.gg/tZ5FnVWxxM)
+
+
+---
+
+## Contact
 👉 [Discord](https://discord.gg/tZ5FnVWxxM)
 👉 [Twitter/X](https://x.com/DivizionMAD)
 👉 [Tiktok](https://www.tiktok.com/@sejosboys)
 👉 [Youtube](https://www.youtube.com/@DivizionM.A.D)
 👉 [Arma 3 Unit](https://units.arma3.com/unit/dmad)
 👉 [Steam Group](https://steamcommunity.com/groups/divizionmad)
-
----
-
-## Contact
-- **Discord**: `@DivizionMAD`
-- **Email**: `command@divizionmad.com`
 
 - <style>
 body {
