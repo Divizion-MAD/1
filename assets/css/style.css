@@ -78,3 +78,6 @@ img {
   position: relative;
   z-index: 10;
 }
+img[src*="logo.png"] {
+  display: none !important;
+}
