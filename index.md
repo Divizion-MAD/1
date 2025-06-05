@@ -37,14 +37,13 @@ Think you’ve got what it takes?
 ---
 
 ## Contact
-👉 [Discord](https://discord.gg/tZ5FnVWxxM)
-👉 [Twitter/X](https://x.com/DivizionMAD)
-👉 [Tiktok](https://www.tiktok.com/@sejosboys)
-👉 [Youtube](https://www.youtube.com/@DivizionM.A.D)
-👉 [Arma 3 Unit](https://units.arma3.com/unit/dmad)
+👉 [Discord](https://discord.gg/tZ5FnVWxxM)(#)
+👉 [Twitter/X](https://x.com/DivizionMAD)(#)
+👉 [Tiktok](https://www.tiktok.com/@sejosboys)(#)
+👉 [Youtube](https://www.youtube.com/@DivizionM.A.D)(#)
+👉 [Arma 3 Unit](https://units.arma3.com/unit/dmad)(#)
 👉 [Steam Group](https://steamcommunity.com/groups/divizionmad)
 
-- <style>
 body {
   background-color: #111 !important;
   color: #eee !important;
