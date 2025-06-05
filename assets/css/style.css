@@ -85,3 +85,9 @@ img {
 img[src*="logo.png"] {
   display: none !important;
 }
+.video-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem 0;
+}
