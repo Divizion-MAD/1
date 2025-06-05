@@ -53,6 +53,12 @@ img {
   border: 2px solid #444;
   border-radius: 6px;
 }
+.page-header {
+  width: 100vw !important;
+  margin-left: calc(-50vw + 50%) !important;
+  border: none !important;
+  padding: 0 !important;
+}
 #skip-to-content {
   display: none !important;
   visibility: hidden;
