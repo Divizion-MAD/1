@@ -3,7 +3,7 @@
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
-  min-height: 260px !important;
+  min-height: 160px !important;
   display: flex !important;
   flex-direction: column !important;
   justify-content: center !important;
@@ -29,7 +29,7 @@
 }
 .main-content {
   max-width: 960px !important;
-  margin: 0 auto !important;
+  margin: 0 !important;
   padding: 0 24px !important;
   box-sizing: border-box !important;
 }
@@ -74,7 +74,7 @@ img {
   background-position: center;
   width: 120px;
   height: 120px;
-  margin: -20px auto 0 auto;  /* 👈 this moves it up */
+  margin: -40px auto 0 auto;  /* 👈 this moves it up */
   position: relative;
   z-index: 10;
 }
