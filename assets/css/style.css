@@ -15,8 +15,8 @@
 .project-name {
   font-size: 3rem;
   font-weight: bold;
-  color: #33cc33;
-  text-shadow: 0 0 10px rgba(0, 0, 0, 0.75);
+  color: #f2cb05 !important;  /* <- GOLDEN */
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.7);  /* Optional shadow */
 }
 .btn {
   display: none !important;
