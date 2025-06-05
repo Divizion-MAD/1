@@ -32,7 +32,7 @@ DIVIZION M.A.D. brings elite realism to Arma 3, through tightly-coordinated team
 ---
 
 ## 🎥 Media
-![Arma 3 Op Screenshot](🧥 assets/images/arma-mad-screenshot.png)
+![Arma 3 Op Screenshot](assets/images/arma-mad-screenshot.png)
 
 ▶️ [Watch our latest op](https://youtube.com)
 
