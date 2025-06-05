@@ -23,7 +23,7 @@ DIVIZION M.A.D. brings elite realism to Arma 3, through tightly-coordinated team
 
 <div class="video-container">
   <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/YOUR_VIDEO_ID"
+    src="https://www.youtube.com/embed/mIL2Y374g0A"
     title="YouTube video player" frameborder="0"
     allowfullscreen>
   </iframe>
