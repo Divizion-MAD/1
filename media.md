@@ -30,5 +30,3 @@ Welcome to the archive!
 
 </details>
 
-
-Divizion M.A.D.
