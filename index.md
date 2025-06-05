@@ -2,13 +2,11 @@
 layout: default
 title: DIVIZION M.A.D.
 ---
-
 <link rel="stylesheet" href="assets/css/style.css">
-
-# DIVIZION M.A.D.
 <p align="center">
   <img src="assets/images/logo.png" alt="DIVIZION M.A.D. Logo" width="180">
 </p>
+# DIVIZION M.A.D.
 **Milsim without the roleplay.**  
 A realistic level milsim group that ditches the unnecessary hassles and roleplay-aspects, to be more beginner friendly. 
 
