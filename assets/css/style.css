@@ -37,9 +37,11 @@ body {
   background-color: #0d0d0d;
   color: #eeeeee;
 }
-h2, h3 {
-  color: #f2cb05 !important; /* Golden yellow */
-  text-shadow: 0 0 5px rgba(0, 0, 0, 0.5); /* Optional: subtle glow */
+.main-content h2,
+.main-content h3 {
+  color: #f2cb05 !important;  /* Golden */
+  text-align: center !important;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
 }
 a {
   color: #4caf50;
