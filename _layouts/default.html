@@ -7,16 +7,6 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <!-- Sidebar -->
-    <div class="sidebar">
-      <h2>Navigation</h2>
-      <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/media/">Media</a></li>
-        <li><a href="/operations/">Operations</a></li>
-      </ul>
-    </div>
-
     <!-- Main Page Content -->
     <div class="main-content-area">
       <header class="page-header">
@@ -26,6 +16,16 @@
       <main class="main-content">
         {{ content }}
       </main>
+    </div>
+
+    <!-- Sidebar moved BELOW main content -->
+    <div class="sidebar">
+      <h2>Navigation</h2>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/media/">Media</a></li>
+        <li><a href="/operations/">Operations</a></li>
+      </ul>
     </div>
   </body>
 </html>
