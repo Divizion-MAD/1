@@ -17,8 +17,8 @@ Welcome to the archive!
 
   <br>
 
-![Op Screenshot 1](/assets/images/arma-mad-screenshot.png)
-
+  ![Op Screenshot 1](/1/assets/images/arma-mad-screenshot.png)
+  
 </details>
 
 <details open>
