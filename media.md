@@ -13,7 +13,7 @@ Welcome to the archive!
 ---
 
 <details>
-  <summary><strong>📸 Screenshots</strong></summary>
+  <summary><strong>📸 Screenshots (click to expand)</strong></summary>
 
   ![Op Screenshot 1](assets/images/arma-mad-screenshot.png)
   ![Op Screenshot 2](assets/images/another-screenshot.png)
