@@ -5,6 +5,15 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/style.css" />
     {% include head-custom.html %}
+    <!-- Sidebar moved above main content -->
+    <div class="sidebar">
+      <h2>Navigation</h2>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/media/">Media</a></li>
+        <li><a href="/operations/">Operations</a></li>
+      </ul>
+    </div>
   </head>
   <body>
     <!-- Main Page Content -->
@@ -16,16 +25,6 @@
       <main class="main-content">
         {{ content }}
       </main>
-    </div>
-
-    <!-- Sidebar moved BELOW main content -->
-    <div class="sidebar">
-      <h2>Navigation</h2>
-      <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/media/">Media</a></li>
-        <li><a href="/operations/">Operations</a></li>
-      </ul>
     </div>
   </body>
 </html>
