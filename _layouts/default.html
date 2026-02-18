@@ -7,21 +7,24 @@
     {% include head-custom.html %}
 
     <style>
-      /* Optional: basic layout and responsive iframe */
+      /* Layout: main content left, sidebar right */
       .layout {
         display: flex;
         gap: 1rem;
         align-items: flex-start;
+        padding: 1rem;
+        box-sizing: border-box;
+      }
+
+      .main-content-area {
+        flex: 1;
+        min-width: 0;
       }
 
       .sidebar {
         width: 350px;
         max-width: 100%;
         box-sizing: border-box;
-      }
-
-      .main-content-area {
-        flex: 1;
       }
 
       .discord-wrap {
@@ -34,7 +37,7 @@
         border: 0;
       }
 
-      @media (max-width: 700px) {
+      @media (max-width: 900px) {
         .layout {
           flex-direction: column;
         }
@@ -44,38 +47,41 @@
       }
     </style>
   </head>
+
   <body>
-    <!-- Sidebar placed inside body -->
-    <div class="sidebar">
-      <h2>Navigation</h2>
-      <ul>
-        <li><a href="https://divizion-mad.github.io/1/">Home</a></li>
-        <li><a href="https://www.youtube.com/@DivizionM.A.D">Media</a></li>
-        <li><a href="https://discord.com/invite/tZ5FnVWxxM">Operations</a></li>
-      </ul>
+    <div class="layout">
+      <!-- Main Page Content (left) -->
+      <div class="main-content-area">
+        <header class="page-header">
+          <h1 class="project-name">{{ site.title }}</h1>
+        </header>
 
-      <div class="discord-wrap" aria-label="Discord server widget">
-        <iframe
-          src="https://discord.com/widget?id=882605020472823869&theme=dark"
-          title="Discord server widget for Divizion M.A.D"
-          width="350"
-          height="500"
-          allowtransparency="true"
-          frameborder="0"
-          sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
-        </iframe>
+        <main class="main-content">
+          {{ content }}
+        </main>
       </div>
-    </div>
 
-    <!-- Main Page Content -->
-    <div class="main-content-area">
-      <header class="page-header">
-        <h1 class="project-name">{{ site.title }}</h1>
-      </header>
+      <!-- Sidebar (right) -->
+      <aside class="sidebar" aria-label="Site navigation and Discord widget">
+        <h2>Navigation</h2>
+        <ul>
+          <li><a href="https://divizion-mad.github.io/1/">Home</a></li>
+          <li><a href="https://www.youtube.com/@DivizionM.A.D">Media</a></li>
+          <li><a href="https://discord.com/invite/tZ5FnVWxxM">Operations</a></li>
+        </ul>
 
-      <main class="main-content">
-        {{ content }}
-      </main>
+        <div class="discord-wrap" aria-label="Discord server widget">
+          <iframe
+            src="https://discord.com/widget?id=882605020472823869&theme=dark"
+            title="Discord server widget for Divizion M.A.D"
+            width="350"
+            height="500"
+            allowtransparency="true"
+            frameborder="0"
+            sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
+          </iframe>
+        </div>
+      </aside>
     </div>
   </body>
 </html>
